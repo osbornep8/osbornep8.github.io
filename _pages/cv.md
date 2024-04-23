@@ -71,28 +71,32 @@ redirect_from:
 <li><strong>Signal Processing </strong>(<strong>EEG, fMRI</strong>)</li>
 <li><strong>Mathematical Modelling</strong</li>
 <li><strong>Machine Learning</strong></li>
-</ul>
+</ul><br>
 
 ### Programming
 
+<br>
 <ul>
 <li><strong>Python</strong> (Pandas, NumPy, matplotlib,plotly, fastai, PyTorch, selenium, beautifulsoup, Flask)</li>
 <li><strong>MATLAB</strong> (PsychToolBox, EEGLAB)</li>
 <li><strong>HTML</strong>, <strong>CSS</strong>, <storng>JavaScript</strong></li>
 <li><strong>PostgreSQL</strong>, <strong> MongoDB</strong></li><li>
-</ul>
+</ul><br>
 
 ### Data Management and Visualization
 
+<br>
 <ul>
 <li><strong>Tableau</strong></li>
 <li><strong>MS Office</strong></li>
 <li>GCP </strong>(<strong>Looker</strong>, <strong>BigQuery</strong>, <strong>LookML</strong>)</li>
-</ul>
+</ul><br>
 
 ----<br>
 
 # Skills 2
+
+<br>
 
 ### Research
 
@@ -106,9 +110,11 @@ redirect_from:
 | **Mathematical Modelling**                              |
 | **Machine Learning**                                    |
 
+<br>
+
 ### Programming
 
-----<br>
+<br>
 
 |                                                                                                 |
 | ----------------------------------------------------------------------------------------------- |
@@ -117,9 +123,11 @@ redirect_from:
 | **HTML, CSS, JavaScript**                                                                       |
 | **PostgreSQL, MongoDB**                                                                         |
 
+<br>
+
 ### Data Management and Visualization
 
-----<br>
+<br>
 
 |                                    |
 | ---------------------------------- |
@@ -127,11 +135,11 @@ redirect_from:
 | **MS Office**                      |
 | **GCP (Looker, BigQuery, LookML)** |
 
-<hr>
+<br>
 
 # Skills 3
 
----<br>
+<br>
 
 | Research                                                | Programming                                                                                     | Data Management and Visualization  |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------- |
@@ -140,7 +148,7 @@ redirect_from:
 | **Signal Processing (EEG, fMRI)**                       | **HTML, CSS, JavaScript**                                                                       | **GCP (Looker, BigQuery, LookML)** |
 | **Mathematical Modelling**                              | **PostgreSQL, MongoDB**                                                                         |                                    |
 
-----<br>
+---<br>
 
  <!-- Education
 
