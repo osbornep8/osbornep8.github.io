@@ -58,12 +58,3 @@ redirect_from:
 | **Image Processing and Analysis** (FSL, MATLAB, Python) | **MATLAB**(PsychToolBox, EEGLAB)                                                                | **MS Office**                      |
 | **Signal Processing** (EEG, fMRI)                       | **HTML**, **CSS**, **JavaScript**                                                               | **GCP** (Looker, BigQuery, LookML) |
 | **Mathematical Modelling**                              | **PostgreSQL**, **MongoDB**                                                                     |                                    |
-
--
--
--
--
-
--
--
--
