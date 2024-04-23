@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/Osborne_Pereira_Resume.pdf
+    url: /cv/
 
   - title: "Portfolio"
     url: /portfolio/
