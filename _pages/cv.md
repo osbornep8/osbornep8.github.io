@@ -24,7 +24,7 @@ redirect_from:
 - Led the research for curating a questionnaire dedicated to identifying the impact of AI in digital tools on **students with disabilities** in collaboration with the university’s Disability and Dyslexia Services
 - Extracting and aggregating insights from the **observational** and **semi-structured interviews** conducted
 
-**Consumer Insights Analyst**, **_Entropik Tech_**  
+**Consumer Insights Analyst**, **_Entropik Tech_**<br>
 **01.2022 – 04.2022**, Bangalore, IN
 
 - Designed and implemented market research campaigns using Entropiks AI platforms (Affectlab, AffectUX) that integrated **facial coding**, **eye-tracking**, and **survey data** to investigate media, UX, print, or in-store campaigns
@@ -34,7 +34,7 @@ redirect_from:
 ## EDUCATION
 
 **University of Sheffield**, **_MSc Cognitive and Computational Neuroscience_**  
-**2022-2023**, _Sheffield, UK_
+**2022-2023**, _Sheffield, UK_ <br>
 
 - **Grade:** 2:1
 - _Sheffield Bionics Society_
