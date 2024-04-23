@@ -42,16 +42,19 @@ redirect_from:
 
 ----<br>
 
-**University of Sheffield**, **_MSc Cognitive and Computational Neuroscience_** _Sheffield, UK_ **|** **2022-2023**
+**University of Sheffield**, **_MSc Cognitive and Computational Neuroscience_**<br>
+**2022-2023**, _Sheffield, UK_ <br>
 
 - **Grade:** 2:1
 - _Sheffield Bionics Society_
 
-**Panjab University** **|** **_PgD Cognitive Science and Human Factors_** _Chandigarh, IN_ **|** **2020-2021**
+**Panjab University**, **_PgD Cognitive Science and Human Factors_** <br>
+**2020-2021**, _Chandigarh, IN_ <br>
 
 - **Grade:** A
 
-**Manipal School of Life Sciences**|**_BSc Biotechnology_** _Manipal, IN_|**2017-2020**
+**Manipal School of Life Sciences**, **_BSc Biotechnology_**
+**2017-2020**, _Manipal, IN_
 
 - **Dissertation**: in silico prediction and molecular docking studies of confusarin isolated within the Dendrobium species
 - **General Secretary** 2019-20
