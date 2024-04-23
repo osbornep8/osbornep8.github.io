@@ -9,38 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-<hr>
 ## EXPERIENCE
-<hr>
 
-**Research Assistant**, **_University of Sheffield_**  
-**10.2023 – 01.2024**
-📍*Sheffield, UK*
+----<br>
+
+**Research Assistant**, **_University of Sheffield_**<br>
+**10.2023 – 01.2024**<br>
+📍*Sheffield, UK*<br>
 
 - Conducted secondary research to identify the methodology for a set of 4 delayed forced-choice **experiments** to **investigate** the mode of **feature binding** at the Department of Psychology
 - Designed the experiments using **HTML**, **CSS**, **JavaScript** and the **Tatool Web** framework to present the experiment as a **web application** and record behavioural data in a **MongoDB** database
 
-**Project Assistant**, **_University of Sheffield_**
-**05.2023 – 08.2023**
-📍Sheffield, UK
+**Project Assistant**, **_University of Sheffield_**<br>
+**05.2023 – 08.2023**<br>
+📍Sheffield, UK<br>
 
 - Curating **questionnaires**, conducting **interviews**, and **quality-checking** raw survey data to assess the use and impact of AI on digital tools in education
 - Led the research for curating a questionnaire dedicated to identifying the impact of AI in digital tools on **students with disabilities** in collaboration with the university’s Disability and Dyslexia Services
 - Extracting and aggregating insights from the **observational** and **semi-structured interviews** conducted
 
-**Consumer Insights Analyst**, **_Entropik Tech_**
-**01.2022 – 04.2022**
-📍Bangalore, IN
+**Consumer Insights Analyst**, **_Entropik Tech_**<br>
+**01.2022 – 04.2022**<br>
+📍Bangalore, IN<br>
 
 - Designed and implemented market research campaigns using Entropiks AI platforms (Affectlab, AffectUX) that integrated **facial coding**, **eye-tracking**, and **survey data** to investigate media, UX, print, or in-store campaigns
 - Performed data analysis and synthesis using **MS Excel** and applied statistical techniques to generate insights and answer hypotheses regarding consumer behaviour for the given media
 - Prepared and delivered engaging and informative presentations using **MS PowerPoint** to visualize data and communicate key findings and recommendations to clients helping boost turnover by 60%
 
-<hr>
-## EDUCATION
-<hr>
+----<br>
 
-**University of Sheffield** **|** **_MSc Cognitive and Computational Neuroscience_** _Sheffield, UK_ **|** **2022-2023**
+## EDUCATION
+
+----<br>
+
+**University of Sheffield**, **_MSc Cognitive and Computational Neuroscience_** _Sheffield, UK_ **|** **2022-2023**
 
 - **Grade:** 2:1
 - _Sheffield Bionics Society_
@@ -54,14 +56,13 @@ redirect_from:
 - **Dissertation**: in silico prediction and molecular docking studies of confusarin isolated within the Dendrobium species
 - **General Secretary** 2019-20
 
-<hr>
 ## **SKILLS**
-<hr>
+
+-----<br>
 
 ### Research
 
-<<ul>
-
+<ul>
 <li><strong>Data Acquisition</strong></li>
 <li><strong>Image Processing and Analysis </strong>(<strong>FSL, MATLAB, Python</strong>)</li>
 <li><strong>Signal Processing </strong>(<strong>EEG, fMRI</strong>)</li>
@@ -71,7 +72,8 @@ redirect_from:
 
 ### Programming
 
-<ul><li><strong>Python</strong> (Pandas, NumPy, matplotlib,plotly, fastai, PyTorch, selenium, beautifulsoup, Flask)</li>
+<ul>
+<li><strong>Python</strong> (Pandas, NumPy, matplotlib,plotly, fastai, PyTorch, selenium, beautifulsoup, Flask)</li>
 <li><strong>MATLAB</strong> (PsychToolBox, EEGLAB)</li>
 <li><strong>HTML</strong>, <strong>CSS</strong>, <storng>JavaScript</strong></li>
 <li><strong>PostgreSQL</strong>, <strong> MongoDB</strong></li><li>
@@ -85,11 +87,13 @@ redirect_from:
 <li>GCP </strong>(<strong>Looker</strong>, <strong>BigQuery</strong>, <strong>LookML</strong>)</li>
 </ul>
 
-<hr>
+----<br>
 
 # Skills 2
 
 ### Research
+
+----<br>
 
 |                                                         |
 | ------------------------------------------------------- |
@@ -101,6 +105,8 @@ redirect_from:
 
 ### Programming
 
+----<br>
+
 |                                                                                                 |
 | ----------------------------------------------------------------------------------------------- |
 | **Python (Pandas, NumPy, matplotlib, plotly, fastai, PyTorch, selenium, beautifulsoup, Flask)** |
@@ -110,13 +116,19 @@ redirect_from:
 
 ### Data Management and Visualization
 
+----<br>
+
 |                                    |
 | ---------------------------------- |
 | **Tableau**                        |
 | **MS Office**                      |
 | **GCP (Looker, BigQuery, LookML)** |
 
+<hr>
+
 # Skills 3
+
+---<br>
 
 | Research                                                | Programming                                                                                     | Data Management and Visualization  |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------- |
@@ -124,6 +136,8 @@ redirect_from:
 | **Image Processing and Analysis (FSL, MATLAB, Python)** | **MATLAB (PsychToolBox, EEGLAB)**                                                               | **MS Office**                      |
 | **Signal Processing (EEG, fMRI)**                       | **HTML, CSS, JavaScript**                                                                       | **GCP (Looker, BigQuery, LookML)** |
 | **Mathematical Modelling**                              | **PostgreSQL, MongoDB**                                                                         |                                    |
+
+----<br>
 
  <!-- Education
 
