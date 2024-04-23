@@ -26,8 +26,8 @@ author:
   pronouns: # example: "she/her"
   bio: "Short biography for the left-hand sidebar"
   location: "Sheffield, UK"
-  employer: ""
-  uri: # URL
+  # employer: ""
+  # uri: # URL
   email: "pereiraosborne8@gmail.com"
 
   # Academic websites
@@ -56,7 +56,7 @@ author:
   # keybase: # Username
   # instagram: # Username
   # lastfm: # Username
-  linkedin: "https://www.linkedin.com/in/opereira8/"
+  linkedin: "opereira8"
   # mastodon: # URL
   # medium: # URL
   # pinterest: # Username
