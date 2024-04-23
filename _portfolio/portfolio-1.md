@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Master's Dissertation Project"
+excerpt: "The Role of CDA and P300 in Visual Working Memory: Insights from a Change Detection Task<br/><img src='/images/CDAtimeseries.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Conducted an [in-depth study](<(https://github.com/osbornep8/portfolioprojects/tree/main/masters_dissertation)>) on working memory capacity and attention by measuring CDA and P300 event-related potentials during a change detection task.
+
+- Collected a comprehensive dataset from university students through EEG data acquisition. Employed a robust analytical toolkit including Python (Pandas, NumPy, SciPy, Plotly) and MS Excel for statistical analysis and hypothesis testing. You can view my in-depth analysis from my [notebooks](https://github.com/osbornep8/portfolioprojects/tree/main/masters_dissertation/notebooks).
+
+- Additionally, developed an interactive dashboard to visualize and present the findings, powered by Streamlit. You can view my [python dashboard](https://github.com/osbornep8/portfolioprojects/blob/main/masters_dissertation/main.py).

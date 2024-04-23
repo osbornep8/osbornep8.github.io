@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## EXPERIENCE
+## WORK EXPERIENCE
 
 **Research Assistant**, **_University of Sheffield_**  
 **10.2023 – 01.2024**, Sheffield, UK
@@ -34,7 +34,7 @@ redirect_from:
 ## EDUCATION
 
 **University of Sheffield**, **_MSc Cognitive and Computational Neuroscience_**  
-**2022-2023**, _Sheffield, UK_ <br>
+**2022-2023**, _Sheffield, UK_
 
 - **Grade:** 2:1
 - _Sheffield Bionics Society_
@@ -47,7 +47,7 @@ redirect_from:
 **Manipal School of Life Sciences**, **_BSc Biotechnology_**  
 **2017-2020**, _Manipal, IN_
 
-- **Dissertation**: in silico prediction and molecular docking studies of confusarin isolated within the Dendrobium species
+- **Dissertation**: _in silico_ prediction and molecular docking studies of confusarin isolated within the Dendrobium species
 - **General Secretary** 2019-20
 
 ## SKILLS
