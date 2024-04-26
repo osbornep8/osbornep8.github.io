@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+## SKILLS
+
+| Research                                                | Programming                                                                                     | Data Management and Visualization  |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **Data Acquisition**                                    | **Python** (Pandas, NumPy, matplotlib, plotly, fastai, PyTorch, selenium, beautifulsoup, Flask) | **Tableau**                        |
+| **Image Processing and Analysis** (FSL, MATLAB, Python) | **MATLAB**(PsychToolBox, EEGLAB)                                                                | **MS Office**                      |
+| **Signal Processing** (EEG, fMRI)                       | **HTML**, **CSS**, **JavaScript**                                                               | **GCP** (Looker, BigQuery, LookML) |
+| **Mathematical Modelling**                              | **PostgreSQL**, **MongoDB**                                                                     |                                    |
 
 ## WORK EXPERIENCE
 
@@ -49,12 +58,3 @@ redirect_from:
 
 - **Dissertation**: _in silico_ prediction and molecular docking studies of confusarin isolated within the Dendrobium species
 - **General Secretary** 2019-20
-
-## SKILLS
-
-| Research                                                | Programming                                                                                     | Data Management and Visualization  |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------- |
-| **Data Acquisition**                                    | **Python** (Pandas, NumPy, matplotlib, plotly, fastai, PyTorch, selenium, beautifulsoup, Flask) | **Tableau**                        |
-| **Image Processing and Analysis** (FSL, MATLAB, Python) | **MATLAB**(PsychToolBox, EEGLAB)                                                                | **MS Office**                      |
-| **Signal Processing** (EEG, fMRI)                       | **HTML**, **CSS**, **JavaScript**                                                               | **GCP** (Looker, BigQuery, LookML) |
-| **Mathematical Modelling**                              | **PostgreSQL**, **MongoDB**                                                                     |                                    |
